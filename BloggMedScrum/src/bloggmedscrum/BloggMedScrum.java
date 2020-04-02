@@ -16,7 +16,7 @@ public class BloggMedScrum {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Ser ni detta? mvh");
+        System.out.println("Ser ni detta?! mvh");
     }
     
 }
