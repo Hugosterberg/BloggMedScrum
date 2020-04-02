@@ -18,7 +18,7 @@ public class BloggMedScrum {
         // TODO code application logic here
         
         System.out.println("Hej Team2");
-        
+        System.out.println("iahfoasfj");
     }
     
 }
