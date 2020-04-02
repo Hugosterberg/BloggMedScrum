@@ -19,6 +19,7 @@ public class BloggMedScrum {
         
         System.out.println("Hej Team2");
         System.out.println("iahfoasfj");
+        System.out.println("tjenatjena");
     }
     
 }
