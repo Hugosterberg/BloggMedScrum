@@ -19,6 +19,6 @@ public class BloggMedScrum {
         
         System.out.println("Hej Team2");
         
-    }
+    } // Hugo jag är inte 3 år gammal
     
 }
