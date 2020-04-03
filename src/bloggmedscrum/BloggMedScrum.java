@@ -18,6 +18,8 @@ public class BloggMedScrum {
         // TODO code application logic here
         
         System.out.println("Hej Team2");
+         System.out.println("Hej Dalarna");
+        
         
     } // Hugo jag är inte 3 år gammal
     
