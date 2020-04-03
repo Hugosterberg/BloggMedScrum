@@ -22,6 +22,8 @@ public class BloggMedScrum {
         System.out.println("tjenatjena");
         System.out.println("Hejdå");
         System.out.println("Teststes");
+        System.out.println("nätbönor är sämst");
+        
     }
     
 }
