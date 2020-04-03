@@ -18,11 +18,6 @@ public class BloggMedScrum {
         // TODO code application logic here
         
         System.out.println("Hej Team2");
-        System.out.println("iahfoasfj");
-        System.out.println("tjenatjena");
-        System.out.println("Hejdå");
-        System.out.println("Teststes");
-        System.out.println("nätbönor är sämst");
         
     }
     
